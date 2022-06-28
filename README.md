@@ -34,3 +34,6 @@ Content
 ## Methodology
 
 1. [MBPO: When to trust your model: Model-based policy optimization]() NeurIPS 2019
+2. PICLO
+3. Dyna
+4. 
