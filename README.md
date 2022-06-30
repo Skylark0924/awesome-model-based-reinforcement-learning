@@ -1,6 +1,6 @@
 # awesome-model-based-reinforcement-learning
 
-This repository is mainly about robot bimanual manipulation / dual-arm manipulation. This is an ongoing project now, so keep an eye on it.
+This repository is mainly about model-based reinforcement learning. This is an ongoing project now, so keep an eye on it.
 
 Related works are listed as follows:
 
@@ -21,7 +21,7 @@ Content
 ## Survey
 
 1. [A Survey on Model-based Reinforcement Learning](https://arxiv.org/pdf/2206.09328.pdf) arxiv 2022
-1. 
+2. [Model-based Reinforcement Learning: A Survey](https://arxiv.org/pdf/2006.16712.pdf) arxiv 2022
 
 ## Workshop 
 
